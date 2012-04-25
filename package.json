@@ -1,0 +1,27 @@
+{
+	"name": "sourceninja-node-example",
+	"preferGlobal": "false",
+	"version": "0.0.1",
+	"author": "SourceNinja <support@sourceninja.com> (http://www.sourceninja.com/)",
+	"description": "a simple way to allow SourceNinja to monitor your Node.js application",
+	"contributors": [
+		"Matt Stump <mstump@sourceninja.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/SourceNinja/sourceninja-node-example.git"
+	},
+	"license": "AGPL",
+	"dependencies": {
+		"sourceninja": "0.0.7",
+		"npm": "1.1.16",
+		"2csv": "*"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": "*"
+	},
+	"homepage": "https://github.com/sourceninja/sourceninja-node-example",
+	"main": "lib/main.js"
+}
