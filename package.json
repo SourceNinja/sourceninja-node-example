@@ -13,7 +13,7 @@
 	},
 	"license": "AGPL",
 	"dependencies": {
-		"sourceninja": "0.0.7",
+		"sourceninja": "*",
 		"npm": "1.1.16",
 		"2csv": "*"
 	},
